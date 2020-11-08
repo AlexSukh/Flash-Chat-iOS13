@@ -8,4 +8,6 @@ target 'Flash Chat iOS13' do
   
   pod 'Firebase/Firestore'
   
+  pod 'IQKeyboardManagerSwift'
+
 end
